@@ -26,7 +26,7 @@ O nome vem da analogia com cristais geológicos: cores diferentes para durezas d
 
 Quanto mais crítico o sistema ("Vida", por exemplo, software de marca-passo), mais rigoroso deve ser o processo, mesmo com poucas pessoas.
 
-![Triângulo de Ferro vs Ágil](../../imagens/imagem_triangulo_ferro_vs_agil.png)
+![Triângulo de Ferro vs Ágil](../../imagens/10_triangulo_ferro_vs_agil.png)
 *(Comparativo de restrições de projeto)*
 
 ## Feature Driven Development (FDD)

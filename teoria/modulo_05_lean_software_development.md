@@ -17,7 +17,7 @@ No software, isso se traduz em não construir funcionalidades que ninguém pediu
 ## Os 7 Princípios Lean
 Os Poppendiecks traduziram os conceitos de fábrica para o trabalho intelectual:
 
-![Os 7 Princípios Lean](../../imagens/imagem_7_principios_lean.png)
+![Os 7 Princípios Lean](../../imagens/09_7_principios_lean.png)
 *(Infográfico dos 7 princípios)*
 
 ### 1. Eliminar Desperdício (Eliminate Waste)

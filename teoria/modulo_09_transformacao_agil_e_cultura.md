@@ -16,7 +16,7 @@ Cultura é "como fazemos as coisas aqui quando ninguém está olhando".
 ### Modelo Schneider
 William Schneider identificou 4 tipos de culturas principais. A Agilidade floresce melhor na cultura de **Colaboração**, mas muitas empresas operam no **Controle**.
 
-![Modelo Schneider](../../imagens/imagem_modelo_schneider.png)
+![Modelo Schneider](../../imagens/14_modelo_schneider.png)
 *(Os 4 quadrantes da cultura corporativa)*
 
 *   **Controle:** Foco em ordem, previsibilidade, hierarquia. (Inimigo natural da Agilidade).

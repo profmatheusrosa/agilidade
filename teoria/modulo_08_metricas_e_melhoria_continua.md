@@ -18,7 +18,7 @@ Ajudam o time a entender como está trabalhando.
 *   **Lead Time:** Tempo total de entrega.
 *   **Burn-down / Burn-up:** Gráficos para acompanhar o progresso diário da Sprint ou do Release.
 
-![Gráfico Burndown](../../imagens/imagem_burndown_chart.png)
+![Gráfico Burndown](../../imagens/12_burndown_chart.png)
 *(Acompanhamento do trabalho restante vs tempo)*
 
 ### Métricas de Negócio (Eficácia)
@@ -38,7 +38,7 @@ Divide o quadro em 5 áreas para gerar insights mais ricos que o simples "Bom/Ru
 4.  **More (Mais):** O que já fazemos mas deveríamos intensificar.
 5.  **Less (Menos):** O que fazemos mas deveríamos reduzir.
 
-![Retrospectiva Starfish](../../imagens/imagem_retrospectiva_starfish.png)
+![Retrospectiva Starfish](../../imagens/13_retrospectiva_starfish.png)
 *(Modelo visual de retrospectiva de 5 pontas)*
 
 ### Sailboat (Barco a Vela)

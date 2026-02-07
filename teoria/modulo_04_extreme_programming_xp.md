@@ -13,7 +13,7 @@ O Extreme Programming (XP), criado por Kent Beck em 1996, é uma metodologia ág
 ## Os 5 Valores do XP
 Os valores guiam as decisões em um time XP.
 
-![Ícones dos Valores XP](../../imagens/imagem_valores_xp.png)
+![Ícones dos Valores XP](../../imagens/07_valores_xp.png)
 *(Os 5 valores fundamentais do XP)*
 
 1.  **Comunicação:** Construir sistemas requer comunicar requisitos do sistema para os desenvolvedores. Em XP, prefere-se conversas diretas a documentos.
@@ -31,7 +31,7 @@ Escreva o teste antes do código.
 2.  **Green:** Escreva o código mínimo para passar no teste.
 3.  **Refactor:** Melhore o código sem alterar o comportamento (mantendo o teste verde).
 
-![Ciclo TDD](../../imagens/imagem_ciclo_tdd.png)
+![Ciclo TDD](../../imagens/08_ciclo_tdd.png)
 *(O ciclo Red-Green-Refactor)*
 
 ### Pair Programming (Programação em Par)

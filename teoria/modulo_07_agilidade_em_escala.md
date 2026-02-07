@@ -19,7 +19,7 @@ O coração do SAFe é o ART: um time de times ágeis (50-125 pessoas) que plane
 ### PI Planning (Program Increment Planning)
 Um evento presencial (ou virtual) massivo, de 2 dias, onde todos os membros do ART se reúnem para planejar as próximas 8-12 semanas de trabalho. É o alinhamento definitivo.
 
-![SAFe Essential](../../imagens/imagem_safe_essential.png)
+![SAFe Essential](../../imagens/11_safe_essential.png)
 *(A configuração essencial do SAFe mostrando o ART)*
 
 ## LeSS (Large-Scale Scrum)

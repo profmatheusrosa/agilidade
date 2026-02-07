@@ -26,15 +26,37 @@ curso_agilidade/
 
 | Módulo | Tópicos Principais | Subtópicos | Detalhes |
 |--------|-------------------|------------|----------|
-| Módulo 1: Fundamentos da Agilidade | Manifesto Ágil, Mindset | 1.1 Valores, 1.2 Princípios, 1.3 Mindset | Introdução à filosofia ágil vs tradicional |
-| Módulo 2: Scrum Framework | Papéis, Eventos, Artefatos | 2.1 Teoria, 2.2 Papéis, 2.3 Eventos, 2.4 Artefatos | O framework ágil mais popular detalhado |
-| Módulo 3: Método Kanban | Visualização, Fluxo, Métricas | 3.1 Princípios, 3.2 Práticas, 3.3 Métricas | Gestão de fluxo contínuo e eficiência |
-| Módulo 4: Extreme Programming (XP) | Práticas de Engenharia, Valores | 4.1 Valores, 4.2 Práticas (TDD, Pair Prog) | Foco na excelência técnica |
-| Módulo 5: Lean Software Development | Princípios Lean | 5.1 Origem, 5.2 Os 7 Princípios | Eliminação de desperdício e entrega de valor |
-| Módulo 6: Outras Metodologias | Crystal, FDD, DSDM | 6.1 Crystal, 6.2 FDD, 6.3 DSDM | Visão geral de outros métodos ágeis |
-| Módulo 7: Agilidade em Escala | SAFe, LeSS, Nexus | 7.1 SAFe, 7.2 LeSS, 7.3 Nexus | Como escalar a agilidade para grandes organizações |
-| Módulo 8: Métricas e Melhoria Contínua | Métricas Ágeis, Retrospectivas | 8.1 Métricas (Velo/Valor), 8.2 Kaizen | Mensurando e melhorando processos |
-| Módulo 9: Transformação Ágil e Cultura | Cultura, Liderança, Anti-patterns | 9.1 Cultura Org, 9.2 Liderança, 9.3 Erros comuns | O lado humano e organizacional da agilidade |
+| **Módulo 1** | Fundamentos da Agilidade | 1.1 O Manifesto Ágil | História, motivação e os signatários |
+|  |  | 1.2 Os 4 Valores Fundamentais | Indivíduos e interações, Software funcionando, Colaboração com cliente, Responder a mudanças |
+|  |  | 1.3 Os 12 Princípios da Agilidade | Satisfação do cliente, Mudanças bem-vindas, Entregas frequentes, Ritmo sustentável, etc. |
+|  |  | 1.4 Mindset Ágil vs. Tradicional | Comparativo com Waterfall e gestão preditiva |
+| **Módulo 2** | Scrum Framework | 2.1 Teoria e Pilares | Transparência, Inspeção e Adaptação |
+|  |  | 2.2 Valores do Scrum | Coragem, Foco, Compromisso, Respeito e Abertura |
+|  |  | 2.3 Papéis (Accountabilities) | Scrum Master, Product Owner, Developers |
+|  |  | 2.4 Artefatos | Product Backlog, Sprint Backlog, Incremento |
+|  |  | 2.5 Eventos | Sprint, Planning, Daily, Review, Retrospective |
+| **Módulo 3** | Método Kanban | 3.1 Princípios Básicos | Começar com o que faz, buscar evolução incremental |
+|  |  | 3.2 Práticas Gerais | Visualizar o fluxo, Limitar WIP, Gerenciar fluxo, Explicitar políticas |
+|  |  | 3.3 Métricas de Fluxo | Lead Time, Cycle Time, Throughput, CFD |
+| **Módulo 4** | Extreme Programming (XP) | 4.1 Os 5 Valores do XP | Comunicação, Simplicidade, Feedback, Coragem e Respeito |
+|  |  | 4.2 Práticas de Engenharia | TDD, Pair Programming, Refactoring, CI, Integração Contínua |
+|  |  | 4.3 O Jogo do Planejamento | User Stories, Releases curtas |
+| **Módulo 5** | Lean Software Development | 5.1 Origens no Lean Manufacturing | Sistema Toyota de Produção |
+|  |  | 5.2 Os 7 Princípios Lean | Eliminar desperdício, Amplificar aprendizado, Decidir o mais tarde possível, Entregar o mais rápido possível, Capacitar o time, Construir integridade, Ver o todo |
+| **Módulo 6** | Outras Metodologias | 6.1 Crystal | Família de metodologias baseadas em tamanho e criticidade |
+|  |  | 6.2 Feature Driven Development (FDD) | Modelagem por objetos, desenvolvimento por funcionalidade |
+|  |  | 6.3 DSDM / Atern | Foco em negócios e entregas pontuais (MoSCoW) |
+| **Módulo 7** | Agilidade em Escala | 7.1 Scaled Agile Framework (SAFe) | Níveis de escala, ARTs, PI Planning |
+|  |  | 7.2 LeSS (Large-Scale Scrum) | Scrum com múltiplos times, estrutura minimalista |
+|  |  | 7.3 Nexus | Framework de escala do Scrum.org |
+| **Módulo 8** | Métricas e Melhoria Contínua | 8.1 Métricas de Processo x Negócio | Velocidade vs. Valor, OKRs |
+|  |  | 8.2 Técnicas de Retrospectiva | Starfish, Sailboat, 5 Porquês |
+|  |  | 8.3 Kaizen | Filosofia de melhoria contínua |
+| **Módulo 9** | Transformação Ágil e Cultura | 9.1 Cultura Organizacional | Modelo Schneider, Segurança Psicológica |
+|  |  | 9.2 Papel da Liderança | Management 3.0, Liderança Servidora |
+|  |  | 9.3 Anti-patterns | "Agile in name only", Microgerenciamento |
+
+
 
 ## Links Rápidos
 
@@ -49,6 +71,8 @@ curso_agilidade/
 | Módulo 7<br>Agilidade em Escala | [Teoria](teoria/modulo_07_agilidade_em_escala.md) | [Exercícios](exercicios/modulo_07_exercicios_agilidade_em_escala.md) | [Projeto](projetos/modulo_07_projeto_agilidade_em_escala.md) |
 | Módulo 8<br>Métricas e Melhoria Contínua | [Teoria](teoria/modulo_08_metricas_e_melhoria_continua.md) | [Exercícios](exercicios/modulo_08_exercicios_metricas_e_melhoria_continua.md) | [Projeto](projetos/modulo_08_projeto_metricas_e_melhoria_continua.md) |
 | Módulo 9<br>Transformação Ágil e Cultura | [Teoria](teoria/modulo_09_transformacao_agil_e_cultura.md) | [Exercícios](exercicios/modulo_09_exercicios_transformacao_agil_e_cultura.md) | [Projeto](projetos/modulo_09_projeto_transformacao_agil_e_cultura.md) |
+
+
 
 ## Planejamento das Aulas
 
