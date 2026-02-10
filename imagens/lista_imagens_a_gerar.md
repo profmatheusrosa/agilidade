@@ -14,33 +14,33 @@ Este documento lista as imagens e diagramas necessários para ilustrar os concei
 
 ## Módulo 2: Scrum Framework
 
-- [ ] **Placeholder:** `03_esquema_scrum`
+- [x] **Placeholder:** `03_esquema_scrum`
   - **Descrição:** Diagrama completo do fluxo Scrum: Product Backlog -> Sprint Planning -> Sprint Backlog -> Sprint (Cycles of Daily) -> Increment -> Sprint Review -> Sprint Retrospective.
   - **Prompt Sugerido:** `Complete Scrum framework diagram. Circular flow. Showing Product Backlog, Sprint Planning, Sprint Backlog, Sprint execution loop with Daily Scrum, Increment, Sprint Review, Sprint Retrospective. Professional, clean style. Text in Brazilian Portuguese.`
 
-- [ ] **Placeholder:** `04_papeis_scrum`
+- [x] **Placeholder:** `04_papeis_scrum`
   - **Descrição:** Ilustração dos três papéis: Product Owner (visionário), Scrum Master (líder servidor), Developers (construtores).
   - **Prompt Sugerido:** `Illustration of Scrum roles: Product Owner holding a map/vision, Scrum Master removing obstacles/shielding team, Developers building a product together. Flat vector style. Text in Brazilian Portuguese.`
 
 ## Módulo 3: Método Kanban
 
-- [ ] **Placeholder:** `05_quadro_kanban_basico`
+- [x] **Placeholder:** `05_quadro_kanban_basico`
   - **Descrição:** Um quadro Kanban simples com colunas: A Fazer, Fazendo, Feito. Com post-its coloridos.
   - **Prompt Sugerido:** `A simple Kanban board visualization with columns: 'A Fazer', 'Fazendo', 'Feito'. Stick notes of different colors. Clean UI design. Text in Brazilian Portuguese.`
 
-- [ ] **Placeholder:** `06_grafico_cfd`
+- [x] **Placeholder:** `06_grafico_cfd`
   - **Descrição:** Exemplo genérico de um Cumulative Flow Diagram (CFD) mostrando as faixas coloridas de progresso ao longo do tempo.
   - **Prompt Sugerido:** `A Cumulative Flow Diagram (CFD) chart example. X-axis is time, Y-axis is number of items. Colored layers representing 'Todo', 'Doing', 'Done'. Professional chart style. Text in Brazilian Portuguese.`
 
 ## Módulo 4: Extreme Programming (XP)
 
-- [ ] **Placeholder:** `08_ciclo_tdd`
-  - **Descrição:** Ciclo Red-Green-Refactor.
-  - **Prompt Sugerido:** `TDD Cycle diagram: Red (Fail), Green (Pass), Refactor (Clean). Circular process. Traffic light colors. Minimalist design. Text in Brazilian Portuguese.`
-
 - [ ] **Placeholder:** `07_valores_xp`
   - **Descrição:** Ícones representando os 5 valores: Comunicação, Simplicidade, Feedback, Coragem, Respeito.
   - **Prompt Sugerido:** `Icon set representing XP Values: Communication (speech bubbles), Simplicity (minimalist shape), Feedback (loop), Courage (lion or shield), Respect (handshake). Labelled text in Brazilian Portuguese.`
+
+- [x] **Placeholder:** `08_ciclo_tdd`
+  - **Descrição:** Ciclo Red-Green-Refactor.
+  - **Prompt Sugerido:** `TDD Cycle diagram: Red (Fail), Green (Pass), Refactor (Clean). Circular process. Traffic light colors. Minimalist design. Text in Brazilian Portuguese.`
 
 ## Módulo 5: Lean Software Development
 
