@@ -17,6 +17,7 @@ Cultura é "como fazemos as coisas aqui quando ninguém está olhando".
 William Schneider identificou 4 tipos de culturas principais. A Agilidade floresce melhor na cultura de **Colaboração**, mas muitas empresas operam no **Controle**.
 
 ![Modelo Schneider](../imagens/14_modelo_schneider.png)
+
 *(Os 4 quadrantes da cultura corporativa)*
 
 *   **Controle:** Foco em ordem, previsibilidade, hierarquia. (Inimigo natural da Agilidade).
@@ -46,9 +47,13 @@ Sinais de que sua transformação ágil pode ser uma farsa:
 3.  **Zombie Scrum:** Fazemos todos os rituais mecanicamente sem entender o propósito (sem alma).
 
 **Exercício 9:** Qual a melhor abordagem para iniciar uma transformação ágil em uma empresa com cultura de Controle forte?
+
 a) Impor o Scrum para todos os departamentos na segunda-feira ("Big Bang").
+
 b) Demitir os gerentes tradicionais.
+
 c) Começar pequeno (piloto), mostrando resultados indiscutíveis e convidando outros a participar (Onda), protegendo o time piloto da burocracia.
+
 d) Escrever um manifesto interno obrigando todos a serem ágeis.
 
 <details>

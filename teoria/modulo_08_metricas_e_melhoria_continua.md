@@ -19,6 +19,7 @@ Ajudam o time a entender como está trabalhando.
 *   **Burn-down / Burn-up:** Gráficos para acompanhar o progresso diário da Sprint ou do Release.
 
 ![Gráfico Burndown](../imagens/12_burndown_chart.png)
+
 *(Acompanhamento do trabalho restante vs tempo)*
 
 ### Métricas de Negócio (Eficácia)
@@ -39,6 +40,7 @@ Divide o quadro em 5 áreas para gerar insights mais ricos que o simples "Bom/Ru
 5.  **Less (Menos):** O que fazemos mas deveríamos reduzir.
 
 ![Retrospectiva Starfish](../imagens/13_retrospectiva_starfish.png)
+
 *(Modelo visual de retrospectiva de 5 pontas)*
 
 ### Sailboat (Barco a Vela)
@@ -55,9 +57,13 @@ Diante de um problema, pergunte "Por quê?" cinco vezes para chegar à causa rai
 Palavra japonesa para "mudança para melhor". Representa a filosofia de que tudo pode ser melhorado sempre. Não é um projeto, é uma cultura.
 
 **Exercício 8:** Você percebe que a velocidade do time (Story Points entregues) aumentou de 20 para 30, mas o número de bugs em produção dobrou. O que isso indica?
+
 a) O time está muito produtivo e os bugs são normais.
+
 b) O time provavelmente começou a sacrificar qualidade (cortar caminho nos testes ou reviews) para "bater a meta" de pontos.
+
 c) Você deve premiar o time pelo aumento da velocidade.
+
 d) Os pontos estavam mal estimados.
 
 <details>

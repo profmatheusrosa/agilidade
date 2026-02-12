@@ -18,6 +18,7 @@ No software, isso se traduz em não construir funcionalidades que ninguém pediu
 Os Poppendiecks traduziram os conceitos de fábrica para o trabalho intelectual:
 
 ![Os 7 Princípios Lean](../imagens/09_7_principios_lean.png)
+
 *(Infográfico dos 7 princípios)*
 
 ### 1. Eliminar Desperdício (Eliminate Waste)
@@ -43,9 +44,13 @@ O software deve ter integridade percebida (usabilidade, adequação ao propósit
 Evite a sub-otimização. Não adianta otimizar o desenvolvimento se o processo de deploy leva 3 semanas. Otimize a cadeia de valor inteira, do conceito ao dinheiro ("Concept to Cash").
 
 **Exercício 5:** Qual é considerado o MAIOR desperdício no desenvolvimento de software segundo o pensamento Lean?
+
 a) Reuniões longas.
+
 b) Documentação desatualizada.
+
 c) Funcionalidades desenvolvidas que nunca são usadas pelos usuários.
+
 d) Bugs encontrados em produção.
 
 <details>

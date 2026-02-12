@@ -27,6 +27,7 @@ O nome vem da analogia com cristais geológicos: cores diferentes para durezas d
 Quanto mais crítico o sistema ("Vida", por exemplo, software de marca-passo), mais rigoroso deve ser o processo, mesmo com poucas pessoas.
 
 ![Triângulo de Ferro vs Ágil](../imagens/10_triangulo_ferro_vs_agil.png)
+
 *(Comparativo de restrições de projeto)*
 
 ## Feature Driven Development (FDD)
@@ -52,9 +53,13 @@ O DSDM popularizou a técnica de priorização **MoSCoW**:
 *   **W**on't Have: Não terá (nesta release).
 
 **Exercício 6:** Segundo a metodologia Crystal, qual fator principal determina o "peso" ou a "cor" da metodologia a ser usada?
+
 a) O orçamento do projeto.
+
 b) O tamanho da equipe e a criticidade do sistema (potencial de dano).
+
 c) A tecnologia escolhida (Java vs Python).
+
 d) A preferência pessoal do Gerente de Projetos.
 
 <details>

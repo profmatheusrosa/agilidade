@@ -20,6 +20,7 @@ O coração do SAFe é o ART: um time de times ágeis (50-125 pessoas) que plane
 Um evento presencial (ou virtual) massivo, de 2 dias, onde todos os membros do ART se reúnem para planejar as próximas 8-12 semanas de trabalho. É o alinhamento definitivo.
 
 ![SAFe Essential](../imagens/11_safe_essential.png)
+
 *(A configuração essencial do SAFe mostrando o ART)*
 
 ## LeSS (Large-Scale Scrum)
@@ -38,9 +39,13 @@ Criado pela Scrum.org (Ken Schwaber), o Nexus também é baseado no Scrum. Seu f
 *   Adiciona eventos como o "Nexus Daily Scrum" para alinhar problemas de integração antes das Dailies individuais.
 
 **Exercício 7:** Qual é a principal diferença filosófica entre SAFe e LeSS?
+
 a) O SAFe é para startups e o LeSS para governos.
+
 b) O SAFe fornece uma estrutura robusta e prescritiva para coordenar grandes corporações, enquanto o LeSS busca manter a simplicidade do Scrum removendo complexidade organizacional.
+
 c) O SAFe usa Kanban e o LeSS usa XP.
+
 d) Não há diferença, apenas o nome muda.
 
 <details>

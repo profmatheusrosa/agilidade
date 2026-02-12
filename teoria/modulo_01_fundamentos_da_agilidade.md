@@ -20,6 +20,7 @@ Eles não rejeitaram processos ou planejamento, mas mudaram o foco para onde o v
 O Manifesto Ágil destaca quatro valores que priorizam a flexibilidade e o fator humano sobre a rigidez burocrática.
 
 ![Balança dos Valores Ágeis](../imagens/01_4_valores_agil.png)
+
 *(Infográfico ilustrando a ponderação dos valores ágeis)*
 
 1. **Indivíduos e interações** mais que processos e ferramentas.
@@ -32,9 +33,13 @@ O Manifesto Ágil destaca quatro valores que priorizam a flexibilidade e o fator
    - Planos são importantes, mas não devem ser imutáveis. O valor está na capacidade de se adaptar a novas descobertas.
 
 **Exercício 1:** Qual das seguintes opções melhor descreve o valor "Responder a mudanças mais que seguir um plano"?
+
 a) Planos são inúteis em projetos ágeis e não devem ser feitos.
+
 b) Devemos ignorar o plano original assim que o projeto começa.
+
 c) Ter um plano é bom, mas a capacidade de adaptá-lo conforme o feedback é mais valiosa.
+
 d) Mudanças só são aceitas se renegociarmos o contrato.
 
 <details>
@@ -73,12 +78,17 @@ O "banco de dados" de conhecimento tradicional vs ágil pode ser comparado como:
 | **Sucesso** | Seguir o plano | Valor entregue ao cliente |
 
 ![Mindset Ágil vs Fixo](../imagens/02_mindset_agil_vs_fixo.png)
+
 *(Comparativo visual entre mentalidades)*
 
 **Exercício 1.1:** No modelo Waterfall tradicional, quando o cliente geralmente vê o software funcionando pela primeira vez?
+
 a) Nas primeiras semanas do projeto.
+
 b) Diariamente, nas reuniões de status.
+
 c) Apenas na fase final de testes ou entrega.
+
 d) Antes mesmo do projeto começar, através de protótipos funcionais completos.
 
 <details>

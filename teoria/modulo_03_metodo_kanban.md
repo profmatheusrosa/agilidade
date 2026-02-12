@@ -29,6 +29,7 @@ Existem 6 práticas fundamentais no Kanban:
 1.  **Visualizar o Fluxo de Trabalho:** Crie um modelo visual do processo (quadro). Se você não vê, não consegue gerenciar.
 
 ![Quadro Kanban Básico](../imagens/05_quadro_kanban_basico.png)
+
 *(Exemplo de um quadro com colunas A Fazer, Fazendo e Feito)*
 
 2.  **Limitar o Trabalho em Progresso (WIP):** WIP (Work In Progress) é o assassino da produtividade. Pare de começar e comece a terminar. Limitar o WIP força o foco e expõe gargalos.
@@ -38,9 +39,13 @@ Existem 6 práticas fundamentais no Kanban:
 6.  **Melhorar Colaborativamente, Evoluir Experimentalmente:** Use o método científico para propor mudanças.
 
 **Exercício 3:** O que acontece quando você reduz o limite de WIP (Trabalho em Progresso) em uma etapa do fluxo?
+
 a) A equipe fica ociosa e desmotivada.
+
 b) O tempo de entrega (Lead Time) tende a diminuir e os gargalos se tornam visíveis.
+
 c) A qualidade do produto cai porque as pessoas trabalham com pressa.
+
 d) O cliente fica insatisfeito porque menos tarefas são iniciadas ao mesmo tempo.
 
 <details>
@@ -60,12 +65,17 @@ O Kanban é fortemente baseado em dados.
 4.  **Cumulative Flow Diagram (CFD):** Um gráfico poderoso que mostra a estabilidade do fluxo, gargalos e tendências de WIP.
 
 ![Gráfico CFD](../imagens/06_grafico_cfd.png)
+
 *(O Diagrama de Fluxo Cumulativo mostra a saúde do processo)*
 
 **Exercício 3.1:** Se a sua Vazão média é de 2 tarefas por dia e você tem 10 tarefas na fila de "A Fazer", qual é a previsão aproximada para terminar essas tarefas (ignorando novas entradas)?
+
 a) 2 dias.
+
 b) 5 dias.
+
 c) 10 dias.
+
 d) Impossível prever.
 
 <details>

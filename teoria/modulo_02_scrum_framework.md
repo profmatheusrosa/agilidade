@@ -16,6 +16,7 @@ O Scrum é o framework ágil mais utilizado no mundo. Ele não é uma metodologi
 O Scrum baseia-se no empirismo e no pensamento Lean. O empirismo afirma que o conhecimento vem da experiência e da tomada de decisão baseada no que é observado.
 
 ![Esquema do Scrum](../imagens/03_esquema_scrum.png)
+
 *(O ciclo completo do Scrum)*
 
 Três pilares sustentam qualquer implementação de Scrum empírico:
@@ -37,6 +38,7 @@ O sucesso do Scrum depende de as pessoas se tornarem mais proficientes em viver 
 No Scrum Guide 2020, o termo "Papéis" foi atualizado para "Responsabilidades" (Accountabilities) para enfatizar a responsabilidade sobre o título.
 
 ![Papéis do Scrum](../imagens/04_papeis_scrum.png)
+
 *(As três responsabilidades do Scrum)*
 
 1.  **Developers (Desenvolvedores):** As pessoas do Time Scrum que estão comprometidas em criar qualquer aspecto de um Incremento utilizável a cada Sprint. Não são apenas codificadores; podem ser designers, escritores, testadores, etc.
@@ -44,9 +46,13 @@ No Scrum Guide 2020, o termo "Papéis" foi atualizado para "Responsabilidades" (
 3.  **Scrum Master:** Responsável por estabelecer o Scrum conforme definido no Scrum Guide. Eles fazem isso ajudando a todos a entender a teoria e a prática do Scrum. Servem ao Time, ao PO e à Organização.
 
 **Exercício 2:** Quem é a ÚNICA pessoa responsável por cancelar uma Sprint se o Objetivo da Sprint se tornar obsoleto?
+
 a) O Scrum Master.
+
 b) O Gerente de Projetos.
+
 c) O Product Owner.
+
 d) O CEO da empresa.
 
 <details>
@@ -74,9 +80,13 @@ Os eventos são time-boxed (têm duração máxima fixa).
 5.  **Sprint Retrospective:** O Time Scrum inspeciona a si mesmo (processos, ferramentas, relações) e cria um plano de melhorias para a próxima Sprint.
 
 **Exercício 2.1:** Qual é o objetivo principal da Daily Scrum?
+
 a) Reportar status para o Product Owner e Scrum Master.
+
 b) Inspecionar o progresso em direção ao Objetivo da Sprint e adaptar o planejamento das próximas 24 horas.
+
 c) Resolver problemas técnicos complexos que surgiram no dia anterior.
+
 d) Atualizar o cronograma do projeto no Jira.
 
 <details>
