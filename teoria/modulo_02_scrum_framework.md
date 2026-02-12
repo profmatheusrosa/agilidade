@@ -15,7 +15,7 @@ O Scrum é o framework ágil mais utilizado no mundo. Ele não é uma metodologi
 ## Teoria e Pilares do Scrum
 O Scrum baseia-se no empirismo e no pensamento Lean. O empirismo afirma que o conhecimento vem da experiência e da tomada de decisão baseada no que é observado.
 
-![Esquema do Scrum](../../imagens/03_esquema_scrum.png)
+![Esquema do Scrum](../imagens/03_esquema_scrum.png)
 *(O ciclo completo do Scrum)*
 
 Três pilares sustentam qualquer implementação de Scrum empírico:
@@ -36,7 +36,7 @@ O sucesso do Scrum depende de as pessoas se tornarem mais proficientes em viver 
 ## Papéis (Accountabilities)
 No Scrum Guide 2020, o termo "Papéis" foi atualizado para "Responsabilidades" (Accountabilities) para enfatizar a responsabilidade sobre o título.
 
-![Papéis do Scrum](../../imagens/04_papeis_scrum.png)
+![Papéis do Scrum](../imagens/04_papeis_scrum.png)
 *(As três responsabilidades do Scrum)*
 
 1.  **Developers (Desenvolvedores):** As pessoas do Time Scrum que estão comprometidas em criar qualquer aspecto de um Incremento utilizável a cada Sprint. Não são apenas codificadores; podem ser designers, escritores, testadores, etc.
@@ -93,4 +93,5 @@ d) Atualizar o cronograma do projeto no Jira.
 [2] Scrum.org. What is Scrum? Disponível em: [https://www.scrum.org/resources/what-is-scrum](https://www.scrum.org/resources/what-is-scrum)
 
 [Próximo módulo →](../teoria/modulo_03_metodo_kanban.md)
+
 [Voltar aos Links Rápidos](../README.md#links-rapidos)

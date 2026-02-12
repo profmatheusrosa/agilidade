@@ -19,7 +19,7 @@ Eles não rejeitaram processos ou planejamento, mas mudaram o foco para onde o v
 ## Os 4 Valores Fundamentais
 O Manifesto Ágil destaca quatro valores que priorizam a flexibilidade e o fator humano sobre a rigidez burocrática.
 
-![Balança dos Valores Ágeis](../../imagens/01_4_valores_agil.png)
+![Balança dos Valores Ágeis](../imagens/01_4_valores_agil.png)
 *(Infográfico ilustrando a ponderação dos valores ágeis)*
 
 1. **Indivíduos e interações** mais que processos e ferramentas.
@@ -72,7 +72,7 @@ O "banco de dados" de conhecimento tradicional vs ágil pode ser comparado como:
 | **Risco** | Alto no final (integração tardia) | Mitigado cedo (entregas pequenas) |
 | **Sucesso** | Seguir o plano | Valor entregue ao cliente |
 
-![Mindset Ágil vs Fixo](../../imagens/02_mindset_agil_vs_fixo.png)
+![Mindset Ágil vs Fixo](../imagens/02_mindset_agil_vs_fixo.png)
 *(Comparativo visual entre mentalidades)*
 
 **Exercício 1.1:** No modelo Waterfall tradicional, quando o cliente geralmente vê o software funcionando pela primeira vez?
@@ -96,4 +96,5 @@ d) Antes mesmo do projeto começar, através de protótipos funcionais completos
 [3] Dweck, C. S. Mindset: A nova psicologia do sucesso. Objetiva, 2017.
 
 [Próximo módulo →](../teoria/modulo_02_scrum_framework.md)
+
 [Voltar aos Links Rápidos](../README.md#links-rapidos)

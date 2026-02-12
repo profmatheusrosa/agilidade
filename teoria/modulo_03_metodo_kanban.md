@@ -28,7 +28,7 @@ Existem 6 práticas fundamentais no Kanban:
 
 1.  **Visualizar o Fluxo de Trabalho:** Crie um modelo visual do processo (quadro). Se você não vê, não consegue gerenciar.
 
-![Quadro Kanban Básico](../../imagens/05_quadro_kanban_basico.png)
+![Quadro Kanban Básico](../imagens/05_quadro_kanban_basico.png)
 *(Exemplo de um quadro com colunas A Fazer, Fazendo e Feito)*
 
 2.  **Limitar o Trabalho em Progresso (WIP):** WIP (Work In Progress) é o assassino da produtividade. Pare de começar e comece a terminar. Limitar o WIP força o foco e expõe gargalos.
@@ -59,7 +59,7 @@ O Kanban é fortemente baseado em dados.
 3.  **Throughput (Vazão):** Quantidade de itens entregues em um período de tempo (ex: 5 cartões por semana).
 4.  **Cumulative Flow Diagram (CFD):** Um gráfico poderoso que mostra a estabilidade do fluxo, gargalos e tendências de WIP.
 
-![Gráfico CFD](../../imagens/06_grafico_cfd.png)
+![Gráfico CFD](../imagens/06_grafico_cfd.png)
 *(O Diagrama de Fluxo Cumulativo mostra a saúde do processo)*
 
 **Exercício 3.1:** Se a sua Vazão média é de 2 tarefas por dia e você tem 10 tarefas na fila de "A Fazer", qual é a previsão aproximada para terminar essas tarefas (ignorando novas entradas)?
@@ -82,4 +82,5 @@ d) Impossível prever.
 [2] Kanban University. The Official Guide to the Kanban Method. Disponível em: [https://kanban.university/kanban-guide/](https://kanban.university/kanban-guide/)
 
 [Próximo módulo →](../teoria/modulo_04_extreme_programming_xp.md)
+
 [Voltar aos Links Rápidos](../README.md#links-rapidos)

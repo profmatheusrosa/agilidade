@@ -26,7 +26,7 @@ O nome vem da analogia com cristais geológicos: cores diferentes para durezas d
 
 Quanto mais crítico o sistema ("Vida", por exemplo, software de marca-passo), mais rigoroso deve ser o processo, mesmo com poucas pessoas.
 
-![Triângulo de Ferro vs Ágil](../../imagens/10_triangulo_ferro_vs_agil.png)
+![Triângulo de Ferro vs Ágil](../imagens/10_triangulo_ferro_vs_agil.png)
 *(Comparativo de restrições de projeto)*
 
 ## Feature Driven Development (FDD)
@@ -72,4 +72,5 @@ d) A preferência pessoal do Gerente de Projetos.
 [3] Agile Business Consortium. The DSDM Agile Project Framework.
 
 [Próximo módulo →](../teoria/modulo_07_agilidade_em_escala.md)
+
 [Voltar aos Links Rápidos](../README.md#links-rapidos)

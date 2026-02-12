@@ -18,7 +18,7 @@ Ajudam o time a entender como está trabalhando.
 *   **Lead Time:** Tempo total de entrega.
 *   **Burn-down / Burn-up:** Gráficos para acompanhar o progresso diário da Sprint ou do Release.
 
-![Gráfico Burndown](../../imagens/12_burndown_chart.png)
+![Gráfico Burndown](../imagens/12_burndown_chart.png)
 *(Acompanhamento do trabalho restante vs tempo)*
 
 ### Métricas de Negócio (Eficácia)
@@ -38,7 +38,7 @@ Divide o quadro em 5 áreas para gerar insights mais ricos que o simples "Bom/Ru
 4.  **More (Mais):** O que já fazemos mas deveríamos intensificar.
 5.  **Less (Menos):** O que fazemos mas deveríamos reduzir.
 
-![Retrospectiva Starfish](../../imagens/13_retrospectiva_starfish.png)
+![Retrospectiva Starfish](../imagens/13_retrospectiva_starfish.png)
 *(Modelo visual de retrospectiva de 5 pontas)*
 
 ### Sailboat (Barco a Vela)
@@ -74,4 +74,5 @@ d) Os pontos estavam mal estimados.
 [2] Doerr, J. Measure What Matters (sobre OKRs). Penguin Portfolio, 2018.
 
 [Próximo módulo →](../teoria/modulo_09_transformacao_agil_e_cultura.md)
+
 [Voltar aos Links Rápidos](../README.md#links-rapidos)
