@@ -1,4 +1,4 @@
-﻿# Módulo 01: Fundamentos da Agilidade
+# Módulo 01: Fundamentos da Agilidade
 
 ## Sumário
 1. [Introdução](#introdução)
@@ -15,6 +15,8 @@ Neste módulo inaugural, exploraremos as raízes da agilidade no desenvolvimento
 No início dos anos 2000, um grupo de 17 líderes e pensadores do desenvolvimento de software se reuniu em Snowbird, Utah. A insatisfação comum era com métodos "pesados" e orientados a documentação que tornavam o desenvolvimento lento e desconectado das necessidades reais dos clientes. O resultado desse encontro foi o **Manifesto para o Desenvolvimento Ágil de Software**.
 
 Eles não rejeitaram processos ou planejamento, mas mudaram o foco para onde o valor realmente reside. A agilidade não é sobre "fazer rápido", é sobre adaptabilidade e resposta a mudanças.
+
+> **Saiba mais sobre a História:** Para uma linha do tempo detalhada que conecta os métodos leves dos anos 90 com a criação do Manifesto, confira nosso material complementar: [Histórico: Do Lean ao Ágil](../materiais_complementares/historico_agil_lean.md).
 
 ## Os 4 Valores Fundamentais
 O Manifesto Ágil destaca quatro valores que priorizam a flexibilidade e o fator humano sobre a rigidez burocrática.

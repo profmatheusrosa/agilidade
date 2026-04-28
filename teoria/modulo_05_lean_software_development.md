@@ -1,4 +1,4 @@
-﻿# Módulo 05: Lean Software Development
+# Módulo 05: Lean Software Development
 
 ## Sumário
 1. [Introdução](#introdução)
@@ -13,6 +13,8 @@ Lean Software Development (LSD) é uma adaptação dos princípios do Lean Manuf
 O Lean nasceu no chão de fábrica da Toyota pós-Segunda Guerra. Enquanto a indústria ocidental focava em produção em massa (grandes lotes, estoques altos), a Toyota, com recursos escassos, focou em "Just-in-Time": produzir apenas o necessário, quando necessário, com qualidade perfeita.
 
 No software, isso se traduz em não construir funcionalidades que ninguém pediu ("estoque" de código), não escrever documentação que ninguém vai ler e focar na entrega rápida de valor.
+
+> **Saiba mais sobre a História:** Para entender melhor como as ideias de chão de fábrica se tornaram os "Lightweight Methods" e chegaram ao desenvolvimento de software, consulte o documento: [Histórico: Do Lean ao Ágil](../materiais_complementares/historico_agil_lean.md).
 
 ## Os 7 Princípios Lean
 Os Poppendiecks traduziram os conceitos de fábrica para o trabalho intelectual:

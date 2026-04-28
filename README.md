@@ -15,7 +15,7 @@ curso_agilidade/
 ├── teoria/                   # Módulos teóricos em Markdown
 ├── exercicios/               # Exercícios de fixação e práticos
 ├── projetos/                 # Projetos práticos de cada módulo
-├── materiais_complementares/ # Glossário, Cheatsheets, Roadmap
+├── materiais_complementares/ # Histórico, Glossário, Cheatsheets, Roadmap
 ├── imagens/                  # Diagramas e infográficos
 ├── README.md                 # Este arquivo
 ├── planejamento_aulas.md     # Guia aula a aula
@@ -72,9 +72,17 @@ curso_agilidade/
 | Módulo 8<br>Métricas e Melhoria Contínua | [Teoria](teoria/modulo_08_metricas_e_melhoria_continua.md) | [Exercícios](exercicios/modulo_08_exercicios_metricas_e_melhoria_continua.md) | [Projeto](projetos/modulo_08_projeto_metricas_e_melhoria_continua.md) |
 | Módulo 9<br>Transformação Ágil e Cultura | [Teoria](teoria/modulo_09_transformacao_agil_e_cultura.md) | [Exercícios](exercicios/modulo_09_exercicios_transformacao_agil_e_cultura.md) | [Projeto](projetos/modulo_09_projeto_transformacao_agil_e_cultura.md) |
 
+### Materiais Complementares
 
+Além dos módulos teóricos, o curso inclui os seguintes guias e documentos extras:
+- [Histórico: Do Lean ao Ágil](materiais_complementares/historico_agil_lean.md)
+- [Glossário de Termos](materiais_complementares/glossario_agilidade.md)
+- [Cheatsheet Ágil](materiais_complementares/cheatsheet_agilidade.md)
+- [Ferramentas e Softwares](materiais_complementares/ferramentas_e_softwares_agilidade.md)
+- [Roadmap de Carreira do Agilista](materiais_complementares/roadmap_carreira_agilista.md)
 
 ## Planejamento das Aulas
+
 
 Ver [planejamento_aulas.md](planejamento_aulas.md) para uma tabela detalhada com distribuição de aulas, conteúdos e arquivos relacionados.
 
